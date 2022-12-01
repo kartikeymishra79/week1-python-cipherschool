@@ -1,0 +1,5 @@
+name, char = input("enter comma seprated name and character :").split(",")
+print(f"length of your name is {len(name)}")
+print(f"character count : {name.lower()}") #case sensitive
+# Kartikey - kartikey
+# K - k
